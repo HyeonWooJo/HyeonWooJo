@@ -30,7 +30,7 @@
 <!-- Language Statistics -->
 
 <a href="https://github.com/HyeonWooJo/github-readme-stats">
-  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonWooJo&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HyeonWooJo&layout=compact" />
 </a>
 
 
