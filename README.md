@@ -21,4 +21,5 @@
 
 </br>
 
-[![HyeonWooJo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonWooJo)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
+
+![HyeonWooJo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonWooJo&show_icons=true&theme=synthwave)]
