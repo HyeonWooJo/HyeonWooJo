@@ -29,4 +29,7 @@
 
 <!-- GitHub Stats -->
 
+<div align="center">
 ![HyeonWooJo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonWooJo&show_icons=true&theme=dark)]
+</div>
+
