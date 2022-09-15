@@ -30,7 +30,7 @@
 <!-- Language Statistics -->
 
 <a href="https://github.com/HyeonWooJo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonWooJo&layout=compact&exclude_repo=Jupyter_notebook,Mindslab01,doputer,minji0801,lution88" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonWooJo&theme=dark&layout=compact&exclude_repo=Jupyter_notebook,Mindslab01" />
 </a>
 
 
