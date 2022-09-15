@@ -15,7 +15,7 @@
 <h3 align='center'> Business Tool </h3>
 
 <p align='center'>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/slack-F05032?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/slack-181717?style=for-the-badge&logo=slack&logoColor=white">
 </p>
 
 
@@ -23,4 +23,4 @@
 
 
 
-![HyeonWooJo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonWooJo&show_icons=true&theme=radical)]
+![HyeonWooJo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonWooJo&show_icons=true&theme=dark)]
