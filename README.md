@@ -16,7 +16,7 @@
 </br>
 
 
-<h3 align='center'> Cowork Tool </h3>
+<h3 align='center'> Co-work Tool </h3>
 
 <p align='center'>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/slack-181717?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
