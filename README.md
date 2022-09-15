@@ -19,5 +19,4 @@
 
 
 
-[![Solved.ac
-HyeonWooJo](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![HyeonWooJo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonWooJo)](https://github.com/anuraghazra/github-readme-stats)
