@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 </p>
 
+</br>
+
 
 <h3 align='center'> Business Tool </h3>
 
@@ -17,6 +19,6 @@
 </p>
 
 
+</br>
 
-
-[![HyeonWooJo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonWooJo)](https://github.com/anuraghazra/github-readme-stats)
+[![HyeonWooJo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonWooJo)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
