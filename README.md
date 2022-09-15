@@ -32,6 +32,8 @@
 <a href="https://github.com/HyeonWooJo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonWooJo&theme=dark&layout=compact&exclude_repo=Jupyter_notebook,Mindslab01" />
 </a>
+<a href="https://github-readme-stats.vercel.app/api?username=HyeonWooJo&show_icons=true&theme=dark">
+</a>
 
 
 
