@@ -1,3 +1,5 @@
+<div align='center'> 
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=9033FF&height=300&section=header&text=^-^&fontSize=90&fontColor=FEFEFE)
 
 <br/>
